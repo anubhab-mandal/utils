@@ -14,7 +14,7 @@ INSTALLATION
 - git clone https://github.com/anubhab-mandal/utils.git
 
 - for bash files, do chmod +x $(NAME-OF-THE-FILE).sh
-- for cpp files, do g++ $(NAME-OF-THE-FILE).cpp -o $(WHATEVER-NAME-YOU-CHOOSE)
+- for cpp files, do g++ $NAME-OF-THE-FILE.cpp -o $WHATEVER-NAME-YOU-CHOOSE
 
 NOTE
 -----
